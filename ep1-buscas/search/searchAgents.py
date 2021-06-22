@@ -1,3 +1,8 @@
+'''
+NOTE:
+    LUCAS HATTORI COSTA - 10335847
+'''
+
 # searchAgents.py
 # ---------------
 # Licensing Information:  You are free to use or extend these projects for
